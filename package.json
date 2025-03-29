@@ -1,0 +1,12 @@
+{
+  "name": "portfolio_2_scratch",
+  "version": "1.0.0",
+  "description": "Portfolio website built from scratch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
