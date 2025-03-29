@@ -169,7 +169,7 @@ footer {
     display: block; /* Hide all projects by default */
 }
 
-#projects .view-more-btn {
+.view-more-btn {
   display: block;
   margin: 1rem auto;
   padding: 0.5rem 1rem;
@@ -183,7 +183,7 @@ footer {
   transition: background-color 0.3s ease;
 }
 
-#projects .view-more-btn:hover {
+.view-more-btn:hover {
   background-color: #45a049;
 }
 
